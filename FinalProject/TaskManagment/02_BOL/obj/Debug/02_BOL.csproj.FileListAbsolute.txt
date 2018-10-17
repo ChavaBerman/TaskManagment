@@ -1,0 +1,6 @@
+C:\Users\seldat\Desktop\FinalProject\TaskManagment\02_BOL\bin\Debug\02_BOL.dll
+C:\Users\seldat\Desktop\FinalProject\TaskManagment\02_BOL\bin\Debug\02_BOL.pdb
+C:\Users\seldat\Desktop\FinalProject\TaskManagment\02_BOL\obj\Debug\02_BOL.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\FinalProject\TaskManagment\02_BOL\obj\Debug\02_BOL.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\FinalProject\TaskManagment\02_BOL\obj\Debug\02_BOL.dll
+C:\Users\seldat\Desktop\FinalProject\TaskManagment\02_BOL\obj\Debug\02_BOL.pdb
